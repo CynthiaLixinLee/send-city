@@ -1,8 +1,8 @@
 {
-  "name": "sick-fits-backend",
-  "version": "2.0.0",
+  "name": "send-city-backend",
+  "version": "1.0.0",
   "private": true,
-  "author": "Wes Bos",
+  "author": "Cynthia Lee",
   "license": "MIT",
   "scripts": {
     "dev": "keystone-next",
